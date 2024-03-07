@@ -5,6 +5,7 @@ import TransactionHistory from "./components/TransactionHistory/TransactionHisto
 import userData from "./data/userData.json"
 import friendsData from "./data/friendsData.json"
 import TransactionData from "./data/transactionsData.json"
+
 function App() {
 
   return (

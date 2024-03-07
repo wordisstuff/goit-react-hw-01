@@ -37,18 +37,14 @@
     font-size: 22px;
 }
 
-.onlineStyle {
-    margin: 20px;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    background-color: rgba(0, 255, 0, 0.669);
-}
-
 .offlineStyle {
     margin: 20px;
     width: 30px;
     height: 30px;
     border-radius: 50%;
     background-color: rgb(167, 167, 167);
+}
+
+.onlineStyle {
+    background-color: rgba(0, 255, 0, 0.669);
 }
